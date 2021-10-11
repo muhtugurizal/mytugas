@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">mytugas</string>
+    <string name="intent1" />
+    <string name="intent2" />
+    <string name="intent3" />
+    <string name="intent4" />
+
 </resources>

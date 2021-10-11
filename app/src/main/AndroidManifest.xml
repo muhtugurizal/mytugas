@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mytugas">
         <activity
+            android:name=".intent4"
+            android:exported="true" />
+        <activity
+            android:name=".intent3"
+            android:exported="true" />
+        <activity
+            android:name=".intent2"
+            android:exported="true" />
+        <activity
+            android:name=".intent1"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
